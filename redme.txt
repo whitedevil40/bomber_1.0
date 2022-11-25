@@ -1,1 +1,2 @@
 this is a simple email bomber
+this is used for sending emails to any user.
