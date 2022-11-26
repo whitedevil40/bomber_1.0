@@ -1,10 +1,20 @@
-# This is a sample Python script.
+##-----------------------------------__main__-------------------------------------
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 from tkinter import *
 import smtplib
+#________________________________initialize----------------------------------------
+root=Tk()
+root.geometry("400x400")
+root.title("Bomber")
 
-tk=Tk()
 
-tk.mainloop()
+
+
+
+
+
+
+
+
+
+root.mainloop()
