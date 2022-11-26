@@ -9,7 +9,7 @@ root=Tk()
 root.geometry("400x400")
 root.title("Bomber")
 
-
+l1=Label(root,text="the")
 
 root.maxsize(height=1000,width=1000)
 
