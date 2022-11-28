@@ -5,9 +5,12 @@
 from tkinter import *
 import smtplib
 #________________________________initialize----------------------------------------
+
+
 root=Tk()
 root.geometry("400x400")
 root.title("Bomber")
+root.resizable(False,False)
 
 l1=Label(root,text="the")
 
